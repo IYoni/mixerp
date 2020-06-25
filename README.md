@@ -1,3 +1,5 @@
+[![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/mixerp/mixerp)
+
 ![MixERP Dashboard](https://raw.githubusercontent.com/mixerp/mixerp/master/screenshots/dashboard.png)
 
 # Update September 29, 2017
